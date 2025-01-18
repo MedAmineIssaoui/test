@@ -1,0 +1,28 @@
+Users/Amine Issaoui/Desktop/movies/movie-watchlist/src/app/movie-list/movie-list.component.css */
+
+body {
+  background-color: #141414;
+  color: #fff;
+}
+
+.movie-list {
+  margin-top: 20px;
+}
+
+.card {
+  background-color: #333;
+  border: 1px solid #333;
+}
+
+.card-title, .card-text {
+  color: #fff;
+}
+
+.btn-danger {
+  background-color: #e50914;
+  border: none;
+}
+
+.btn-danger:hover {
+  background-color: #b20710;
+}

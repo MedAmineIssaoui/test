@@ -1,0 +1,17 @@
+com\Watchlist\demo\Service\UserService.class
+com\Watchlist\demo\WatchlistApplication.class
+com\Watchlist\demo\Controller\MovieController.class
+com\Watchlist\demo\DTO\WatchlistDTO.class
+com\Watchlist\demo\Entity\Watchlist.class
+com\Watchlist\demo\Config\SecurityConfig.class
+com\Watchlist\demo\DTO\MovieDTO.class
+com\Watchlist\demo\Controller\UserController.class
+com\Watchlist\demo\Repository\WatchlistRepository.class
+com\Watchlist\demo\Service\MovieService.class
+com\Watchlist\demo\DTO\UserDTO.class
+com\Watchlist\demo\Controller\WatchlistController.class
+com\Watchlist\demo\Repository\UserRepository.class
+com\Watchlist\demo\Service\WatchlistService.class
+com\Watchlist\demo\Repository\MovieRepository.class
+com\Watchlist\demo\Entity\Movie.class
+com\Watchlist\demo\Entity\User.class

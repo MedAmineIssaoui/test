@@ -1,0 +1,13 @@
+<div *ngIf="movie" class="movie-detail container mt-5">
+    <div class="card">
+      <img [src]="movie.image" class="card-img-top" alt="{{ movie.title }}">
+      <div class="card-body">
+        <h2 class="card-title">{{ movie.title }}</h2>
+        <p class="card-text">{{ movie.description }}</p>
+        <p class="card-text"><strong>Genre:</strong> {{ movie.genre }}</p>
+        <p class="card-text"><strong>Release Year:</strong> {{ movie.releaseYear }}</p>
+        <p class="card-text"><strong>Director:</strong> {{ movie.director }}</p>
+        <p class="card-text"><strong>Watched:</strong> {{ movie.watched ? 'Yes' : 'No' }}</p>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,17 @@
+body {
+    background-color: #141414;
+    color: #fff;
+  }
+  
+  .movie-detail {
+    margin-top: 20px;
+  }
+  
+  .card {
+    background-color: #333;
+    border: 1px solid #333;
+  }
+  
+  .card-title, .card-text {
+    color: #fff;
+  }
